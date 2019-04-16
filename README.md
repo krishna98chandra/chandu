@@ -1,1 +1,1 @@
-# chandu
+# College Social Networking Site Project
